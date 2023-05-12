@@ -25,9 +25,6 @@
 [1]: https://github.com/firechiang/ceph-study/tree/master/docs/setup-cluster-cephadm.md
 [2]: https://github.com/firechiang/ceph-study/tree/master/docs/setup-cluster-node.md
 [3]: https://github.com/firechiang/ceph-study/tree/master/docs/edit-pool.md
-[4]: https://github.com/firechiang/ceph-study/tree/master/docs/metat-server.md
-[5]: https://github.com/firechiang/ceph-study/tree/master/docs/edit-cephfs.md
-[6]: https://github.com/firechiang/ceph-study/tree/master/docs/client-auth.md
 [7]: https://github.com/firechiang/ceph-study/tree/master/docs/client-simple-use.md
 [8]: https://github.com/firechiang/ceph-study/tree/master/docs/service-manager.md
 [9]: https://github.com/firechiang/ceph-study/tree/master/docs/waring-handler.md
