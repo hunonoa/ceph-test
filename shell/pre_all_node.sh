@@ -5,9 +5,7 @@ export passwd="ceph-admin"
 export node1="c720181"
 export node2="c720182"
 export node3="c720183"
-export node1_ip="192.168.20.181"
-export node2_ip="192.168.20.182"
-export node3_ip="192.168.20.183"
+export"
 
 
 # 配置 rpm
