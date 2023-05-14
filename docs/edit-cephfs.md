@@ -12,9 +12,6 @@ $ ceph fs new cephfs <元数据存储所在池名称> <数据存储所在池名�
 # cephfs文件系统最多使用2个Ceph Metadata Server(MDS)元数据存储节点作为主要活动节点
 $ ceph fs set cephfs max_mds 2
 
-# cephfs文件系统使用1个Ceph Metadata Server(MDS)元数据存储节点作为备用节点
-$ ceph fs set cephfs standby_count_wanted 1
-
 # 查看所有文件系统元数据存储服务情况
 $ ceph mds stat
 cephfs:2 {0=cephfs.server001.orbgin=up:active,1=cephfs.server002.onuuxd=up:active} 1 up:standby
