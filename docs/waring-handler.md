@@ -12,7 +12,6 @@ $ ceph crash info <crash-id>
 # 存档指定ID警告或错误信息（该命令执行完成以后，WEB管理界面将不会有该条警告或错误信息）
 $ ceph crash archive <crash-id>
 
-# 存档指定所有警告或错误信息（该命令执行完成以后，WEB管理界面将不会有该条警告或错误信息）
 $ ceph crash archive-all
 
 # 完全禁用WEB界面显示警告或错误（注意：不推荐使用）
