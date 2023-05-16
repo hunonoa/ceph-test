@@ -10,7 +10,7 @@ $ ceph osd lspools
 $ ceph osd pool create test_pool
 ```
 
-#### 二、修改存储池相关配置
+#### 二、修改存储池
 ```bash
 # 设置test_pool存储池的副本数为2
 $ ceph osd pool set test_pool size 2

@@ -12,7 +12,7 @@ $ ceph auth get-or-create client.my_pool mon 'allow r' osd 'allow rwx pool=my_po
 $ ceph auth get client.my_pool
 [client.my_pool]
   key = AQCPfqhh23XBCBAAzJ23aMUH48Kl3EKHn7Gbjg==
-  caps mon = "allow r"
+
   caps osd = "allow rwx pool=my_pool"
   
 # 修改用户client.my_pool相关权限
